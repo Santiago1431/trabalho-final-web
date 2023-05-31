@@ -2,25 +2,25 @@
 
 ## Site do Gremio Estudantil
 
-### o site será focado nos aluno e integrantes do gremio, com objetivo de fornecer suporte e informações de maneira simplificada, facil e agil.
+### O site será focado nos alunos e integrantes do Gremio, com objetivo de fornecer suporte e informações de maneira simplificada, facil e ágil.
 
 ### Falta de procura dos estudantes ao gremio
 
 ### Estudantes do Ensino Médio
 
-### pagina de Membros/Cargos, Quem Somos, Oque é o gremio, Download statuto do Gremio, Como Participar do Gremio, Instragam, Whatsapp, Suporte online(ticket).
+### Página de Membros/Cargos, Quem Somos, O que é o gremio, Download statuto do Gremio, Como Participar do Gremio, Instragam, Whatsapp, Suporte online(ticket).
 
 # Proposta 02
 
-## Título_da_proposta
+## Site da Festa da Cachaça
 
-### Descrição
+### O site seria destinado à Festa da Cachaça, visando facilitar a relação do público com o evento;
 
-### Problema a ser solucionado
+### Atualmente a população sente falta de um local na internet para obter informações sobre a Festa da Cachaça, mesmo ela sendo o principal evento turístico de Salinas;
 
-### Público alvo
+### População/frequentadores do evento;
 
-### Funcionalidades
+### Comprar ingressos; visualizar informações sobre evento, atrações e organizadores; ver material midiático de edições passadas
 
 # Proposta 03
 
