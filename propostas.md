@@ -24,12 +24,12 @@
 
 # Proposta 03
 
-## Título_da_proposta
+## Site de Controle dos onibus escolares
 
-### Descrição
+### O site sera utilizado para melhor controle dos onibus escolares e divulgação de informacoes importantes como horarios, valores, trejetos do onibus, pontos de parada disponiveis entre outras coisas.
 
-### Problema a ser solucionado
+### Ajudar na falta de informações dos alunos a respeito do itinerário, horarios, valores, fornecendo assim um contato entre a empresa do onibus e os alunos.
 
-### Público alvo
+### Alunos e passageiros no geral.
 
-### Funcionalidades
+### Visulizar trajetos disponiveis, horarios que os onibus estarao passando em cada ponto, valores das passagem atualizados diariamente, pontos de parada disponiveis, entre outras coisas.
